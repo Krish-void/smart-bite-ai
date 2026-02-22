@@ -5,7 +5,4 @@
 # FastAPI
 
 # Model
-/model/
-
-# Data
-/model/datasets/
+/model
